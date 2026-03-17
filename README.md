@@ -1,2 +1,2 @@
 # quadrotor_mathematical_model
-Mathematical Model of a quadrotor + configuration on MATLAB
+Mathematical ModelS of UAVs on MATLAB
