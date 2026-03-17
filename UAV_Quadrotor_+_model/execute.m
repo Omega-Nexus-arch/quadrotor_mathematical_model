@@ -46,7 +46,7 @@ for i = 0:t_interval:t_final
 
     % Control Inputs
 
-    Omg_1 = sqrt(m_*g_/(4*b)) *0.99;
+    Omg_1 = sqrt(m_*g_/(4*b));
     Omg_2 = sqrt(m_*g_/(4*b));
     Omg_3 = sqrt(m_*g_/(4*b));
     Omg_4 = sqrt(m_*g_/(4*b));
